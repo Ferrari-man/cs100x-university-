@@ -1,0 +1,9 @@
+body {
+    background-color: #121212; /* Dark gray */
+    color: white; /* Optional: Set text color to white for better contrast */
+}
+
+h1 {
+    color: rgb(152, 152, 185);
+    font-size: 50px;
+}
